@@ -3,5 +3,4 @@
 - 👀 I’m interested in coding, hacking💞️, and most importantly explorinnnnnnn
 - 🌱 I’m currently learning Python, java, os, MySQL, html, css, c, c++, javascript, oracle, bootstrap, networking, cybersecurity
 - 💞️ I want to become an ethical hacker.
-- 📫 How to reach me:- https://github.com/tamzzay
 - ✨  I love coding and learning
