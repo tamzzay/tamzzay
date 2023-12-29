@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tamzzay
-- 🔖I m a stud of CSE(IOT & Cybersecurity) undergrad
+- 🔖I m a stud of Cybersecurity undergrad
 - 👀 I’m interested in coding, hacking💞️, and most importantly explorinnnnnnn
 - 🌱 I’m currently learning Python, java, os, MySQL, html, css, c, c++, javascript, oracle, networking, cybersecurity
 - 💞️ I want to become an ethical hacker.
