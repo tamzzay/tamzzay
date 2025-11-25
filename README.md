@@ -1,31 +1,106 @@
-<h1 align="center">Hi 👋, I'm TAMZZAY</h1>
-<h3 align="center">A passionate ethical hacker from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamzzay&label=Profile%20views&color=0e75b6&style=flat" alt="tamzzay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamzzay" alt="tamzzay" /></a> </p>
-
-- 🌱 I’m currently learning **React, Python, java, os, MySQL, html, css, c, c++, javascript, oracle, networking, ethical hacking, cybersecurity**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tamzzay](https://github.com/tamzzay)
-
-- 📫 How to reach me **tanvishenoy53@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tamzee123hc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tamzee123hc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tamanna shenoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna shenoy" height="30" width="40" /></a>
-<a href="https://www.instagram.com/versatile._.life/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nature_my_luv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@versatile_life1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="versatile_life" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tamzeee_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tamzeee_1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tamannashhmc4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tamannashhmc4" height="30" width="40" /></a>
+<!-- MATRIX TERMINAL HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=700&lines=$+whoami;TAMZZAY+%7C+Red+Team+Apprentice;$+echo+'Cybersecurity+Enthusiast';$+init_matrix.sh+--loading..." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/091cdcc3e35742e669112e5a783678e093d2665ea1a83090aad8180790e062b5/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578615739334d484232616a4a764f445a6b4e3263326144427a62576f314d6e4979636d74354d323573596a64354d326c356254686e59535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7854636e5357595a7661667968454143424f2f67697068792e676966" width="500"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamzzay&show_icons=true&locale=en&layout=compact" alt="tamzzay" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamzzay&show_icons=true&locale=en" alt="tamzzay" /></p>
+# 👾 **Hi, I’m TAMZZAY**
+### *A Passionate Ethical Hacker & Cybersecurity Learner from India*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamzzay&" alt="tamzzay" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tamzzay&label=Visitors&color=39FF14&style=flat" />
+</p>
+
+---
+
+# ⚡ **About Me**
+- 🔭 Currently working on **Red Team projects** & exploit simulations  
+- 🛡️ Learning **Networking, PenTesting, OS, Java, C/C++, Python, MySQL, JS**  
+- 👾 Explore: **CTFs, TryHackMe, OverTheWire, Dark Web intel, OSINT**  
+- 🖥️ Working on my portfolio of tools:  
+  - **Bruteforce Engine**  
+  - **Packet Sniffer**  
+  - **ShadowTrack (Blockchain + Cyber project)**  
+- 👯 Open to collaborations with **Cybersecurity Enthusiasts**  
+- 📫 Email me: **tanvishenoy53@gmail.com**
+
+---
+
+# ⚙️ **Tech & Tools I Use**
+### 🐍 Programming / Scripting
+![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-39FF14?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-39FF14?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-39FF14?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-39FF14?style=for-the-badge&logo=javascript&logoColor=white)
+
+### 🛡️ Cyber & Red Team
+![Kali](https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+![Arch](https://img.shields.io/badge/Arch-000?style=for-the-badge&logo=arch-linux&logoColor=39FF14)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-000?style=for-the-badge&logo=freebsd&logoColor=39FF14)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-000?style=for-the-badge&logo=openwrt&logoColor=39FF14)
+
+### ⚙️ DevOps / Cloud
+![Docker](https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/K8s-39FF14?style=for-the-badge&logo=kubernetes&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-39FF14?style=for-the-badge&logo=amazon-aws&logoColor=black)
+
+---
+
+# 🛰️ **Socials**
+<p align="left">
+<a href="https://codepen.io/tamzee123hc"><img src="https://skillicons.dev/icons?i=codepen" width="40"/></a>
+<a href="https://linkedin.com/in/tamanna shenoy"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://www.instagram.com/versatile._.life/"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+<a href="https://www.youtube.com/@versatile_life1920"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
+<a href="https://www.leetcode.com/tamzeee_1"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/tamannashhmc4"><img src="https://skillicons.dev/icons?i=raspberrypi" width="40"/></a>
+</p>
+
+---
+
+# 🔥 **GitHub Stats — Hacker Mode**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamzzay&show_icons=true&theme=chartreuse-dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamzzay&layout=compact&theme=chartreuse-dark" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamzzay&theme=chartreuse-dark" />
+</p>
+
+---
+
+# 🏆 **Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tamzzay&theme=matrix&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+# 🐍 **GitHub Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maxamin/maxamin/main/assets/github-snake.svg" />
+</p>
+
+---
+
+# 👾 Matrix Rain
+<p align="center">
+  <img src="https://camo.githubusercontent.com/85add4a9633786947f86fe4e86eb5aca6b190ff47345434755a0d98f488fefa7/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" width="500" />
+</p>
+
+---
+
+# 📂 **My Work**
+🔗 GitHub Portfolio: **https://github.com/tamzzay**
+
+---
+
+# 🎯 **End**
+💬 *“Hack the Planet — but ethically.”*  
